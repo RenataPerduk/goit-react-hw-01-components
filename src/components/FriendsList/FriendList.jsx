@@ -4,6 +4,8 @@ import PropTypes from 'prop-types';
 import FriendsItem from './FriendListItem/FriendsItem';
 //styles
 import './FriendList.css';
+import './Friends.json';
+
 
 const FriendList = ({ friends }) => {
   return (
